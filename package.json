@@ -1,0 +1,11 @@
+{
+  "name": "aws-node-autoscale",
+  "version": "1.0.0",
+  "description": "A simple Node.js app to run on EC2 with auto scaling",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Manisha Sarkar",
+  "license": "ISC"
+}
